@@ -1,0 +1,2 @@
+# StudySutra
+smart educational tool
